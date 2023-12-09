@@ -4,7 +4,6 @@ import { Character } from '../../interfaces/character.interface';
 @Component({
   selector: 'dbz-list',
   templateUrl: './list.component.html',
-  styleUrl: './list.component.scss'
 })
 export class ListComponent {
 
